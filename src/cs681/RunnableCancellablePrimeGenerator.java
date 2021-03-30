@@ -52,3 +52,4 @@ public class RunnableCancellablePrimeGenerator extends RunnablePrimeGenerator {
 	}
 }
 
+
